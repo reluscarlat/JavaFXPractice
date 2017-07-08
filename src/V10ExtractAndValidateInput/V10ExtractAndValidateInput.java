@@ -35,7 +35,7 @@ public class V10ExtractAndValidateInput extends Application {
             //Name imput
             TextField nameInput=new TextField("Relu");
             GridPane.setConstraints(nameInput,1,0);
-            int a;
+
             //Age label
             Label ageLabel=new Label("Age");
             GridPane.setConstraints(ageLabel,0,1);
